@@ -1,5 +1,5 @@
 {
-  "buildTime": "2025-09-18T16:11:39.725Z",
+  "buildTime": "2025-09-24T11:59:34.190Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.53",
     "types": "1.0.0-alpha.53"
@@ -55,12 +55,12 @@
     {
       "name": "MangaDemon",
       "description": "Extension that pulls content from demonicscans.org.",
-      "version": "1.0.0-alpha.1",
+      "version": "1.0.0-alpha.2",
       "icon": "icon.png",
       "language": "🇺🇸",
       "contentRating": "SAFE",
       "badges": [],
-      "capabilities": 101,
+      "capabilities": 117,
       "developers": [
         {
           "name": "samipmainali",
