@@ -1,5 +1,5 @@
 {
-  "buildTime": "2025-10-04T18:49:09.252Z",
+  "buildTime": "2025-10-06T12:19:45.414Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.53",
     "types": "1.0.0-alpha.53"
@@ -34,7 +34,7 @@
     {
       "name": "Bato.To",
       "description": "Extension that pulls content from bato.to.",
-      "version": "1.0.0-alpha.3",
+      "version": "1.0.0-alpha.4",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "ADULT",
@@ -47,7 +47,9 @@
       "badges": [],
       "developers": [
         {
-          "name": "Egwau"
+          "name": "Inkdex",
+          "website": "https://inkdex.github.io",
+          "github": "https://github.com/inkdex"
         }
       ],
       "id": "BatoTo"
@@ -204,7 +206,7 @@
     {
       "name": "Mgeko",
       "description": "Extension that pulls content from mgeko.cc.",
-      "version": "1.0.0-alpha.10",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
