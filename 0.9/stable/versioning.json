@@ -1,5 +1,5 @@
 {
-  "buildTime": "2025-10-12T19:47:09.727Z",
+  "buildTime": "2025-10-14T13:09:12.578Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.57",
     "types": "1.0.0-alpha.57"
@@ -99,7 +99,7 @@
     {
       "name": "MangaFire",
       "description": "Extension that pulls content from mangafire.to.",
-      "version": "1.0.0-alpha.6",
+      "version": "1.0.0-alpha.7",
       "icon": "icon.png",
       "language": "multi",
       "contentRating": "SAFE",
@@ -206,7 +206,7 @@
     {
       "name": "Mgeko",
       "description": "Extension that pulls content from mgeko.cc.",
-      "version": "1.0.0-alpha.11",
+      "version": "1.0.0-alpha.12",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
