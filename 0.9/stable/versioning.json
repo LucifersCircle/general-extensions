@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-01-21T16:52:16.210Z",
+  "buildTime": "2026-01-22T15:25:06.955Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.57",
     "types": "1.0.0-alpha.57"
@@ -245,7 +245,7 @@
     {
       "name": "Mgeko",
       "description": "Extension that pulls content from mgeko.cc.",
-      "version": "1.0.0-alpha.14",
+      "version": "1.0.0-alpha.15",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
@@ -311,7 +311,7 @@
     {
       "name": "Weeb Central",
       "description": "Extension that pulls content from weebcentral.com.",
-      "version": "1.0.0-alpha.10",
+      "version": "1.0.0-alpha.11",
       "icon": "icon.png",
       "language": "en",
       "contentRating": "SAFE",
